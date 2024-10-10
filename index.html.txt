@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <button formsappId="6706f102d981b464653fd623"></button>
+    <script src="https://forms.app/static/embed.js" type="text/javascript" async defer onload="new formsapp('6706f102d981b464653fd623', 'slider', {'overlay':'rgba(45,45,45,0.5)','button':{'color':'#BD7E2F','text':'Confirme sua presença'},'width':'767px','height':'100vh','align':'right'});"></script>
+</body>
+</html>
